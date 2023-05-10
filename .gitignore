@@ -1,0 +1,10 @@
+*.mat
+*.pth
+*.pickle
+*.py[cod]
+.pytest_cache/
+.venv/
+__pycache__/
+error_logs.txt
+SEED-VIG/
+wandb/
