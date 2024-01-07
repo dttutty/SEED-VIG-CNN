@@ -1,3 +1,5 @@
 *.mat
 *.pth
 *.pickle
+SEED-VIG/
+wandb/
